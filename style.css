@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+  padding: 15px 0;
+  margin: 0 auto;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+.list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.main {
+  width: 800px;
+  margin: 0 auto;
+  padding: 50px 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.a1 {
+  width: 200px;
+  height: 200px;
+  background-color: #e6ffe9;
+}
+
+.a2 {
+  width: 200px;
+  height: 200px;
+  background-color: #cdffd3;
+}
+
+.a3 {
+  width: 200px;
+  height: 200px;
+  background-color: #aeffbd;
+}
+
+.a4 {
+  width: 200px;
+  height: 200px;
+  background-color: #93ffab;
+}
+
+.b1 {
+  width: 200px;
+  height: 200px;
+  background-color: #f3ffd8;
+}
+
+.b2 {
+  width: 200px;
+  height: 200px;
+  background-color: #edffbe;
+}
+
+.b3 {
+  width: 200px;
+  height: 200px;
+  background-color: #e9ffa5;
+}
+
+.b4 {
+  width: 200px;
+  height: 200px;
+  background-color: #e4ff8d;
+}
+
+.c1 {
+  width: 200px;
+  height: 200px;
+  background-color: #d9e5ff;
+}
+
+.c2 {
+  width: 200px;
+  height: 200px;
+  background-color: #bad3ff;
+}
+
+.c3 {
+  width: 200px;
+  height: 200px;
+  background-color: #a4c6ff;
+}
+
+.c4 {
+  width: 200px;
+  height: 200px;
+  background-color: #8eb8ff;
+}
+
+footer {
+  width: 100%;
+  height: 120px;
+  line-height: 120px;
+  text-align: center;
+  background-color: gray;
+}
+
+.footer-text {
+  color: #ffff;
+}
